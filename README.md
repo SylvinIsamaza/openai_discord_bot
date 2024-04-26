@@ -31,6 +31,8 @@ npm install
 ```bash
 DISCORD_TOKEN=your-discord-token
 OPENAI_API_KEY=your-openai-api-key
+CHANNELS=your channels separated by space
+OPENAI_MODEL=your-openai-model
 ```
 4. Run bot 
   ```bash
